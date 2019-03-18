@@ -125,7 +125,7 @@ styles.xml
     </resources>
 运行结果：
 --
-![Image text]()
+![Image text](https://github.com/maijiang/ConstraintLayout/blob/master/constraintLayout.PNG)
 
     
 
